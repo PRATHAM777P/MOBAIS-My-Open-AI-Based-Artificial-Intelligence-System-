@@ -1,0 +1,7 @@
+python-dotenv
+speechrecognition
+pyttsx3
+pydub
+openai
+requests
+# tkinter is included with Python standard library

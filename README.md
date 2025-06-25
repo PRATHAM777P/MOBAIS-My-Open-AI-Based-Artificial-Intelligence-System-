@@ -1,4 +1,4 @@
-# MOBAIS-My-Open-AI-Based-Artificial-Intelligence-System-
+# MOBAIS: Modular OpenAI-Based Assistant with Intelligent Speech
 
 MOBAIS is a modular, voice-activated and text-based AI assistant built with Python, OpenAI GPT-4, and modern speech technologies. It supports both CLI and GUI modes, customizable personalities, wake words, and intent recognition for smart task execution.
 
@@ -10,7 +10,7 @@ MOBAIS is a modular, voice-activated and text-based AI assistant built with Pyth
 - 🔊 **Voice Output**: Assistant responds with both text and speech (TTS).
 - 🤖 **Character Mode**: Choose from helpful, funny, sarcastic, motivational, or formal personalities.
 - 🗣️ **Custom Wake Word**: Activate the assistant with your chosen hotword (default: "Hey Pratham").
-- 📌 **Intent Recognition**: Understands commands like "set alarm", "what’s the weather", "open app", "remind me", and "search for".
+- 📌 **Intent Recognition**: Understands commands like "set alarm", "what's the weather", "open app", "remind me", and "search for".
 - 📅 **Task Execution**: Performs actions like reminders, weather info, and web search (API integration ready).
 - 🖥️ **GUI Mode**: Desktop chat window with text and voice input.
 - 📝 **Logging**: All interactions are logged to `mobais_history.log`.
@@ -107,4 +107,4 @@ MIT License
 
 ---
 
-**Enjoy your modular AI assistant!**
+**Enjoy your modular AI assistant!** 
