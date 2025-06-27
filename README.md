@@ -21,19 +21,13 @@ MOBAIS is a modular, voice-activated and text-based AI assistant built with Pyth
 
 ## Setup
 
-### 1. Clone the Repository
-```sh
-git clone <your-repo-url>
-cd "Python program's/@MOBAIS/"
-```
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 ```sh
 pip install -r requirement.txt
 pip install simpleaudio
 ```
 
-### 3. Set Your OpenAI API Key
+### 2. Set Your OpenAI API Key
 ```sh
 # On Windows
 set OPENAI_API_KEY=your_openai_api_key_here
@@ -41,11 +35,11 @@ set OPENAI_API_KEY=your_openai_api_key_here
 export OPENAI_API_KEY=your_openai_api_key_here
 ```
 
-### 4. (Optional) Set Weather and Search API Keys
+### 3. (Optional) Set Weather and Search API Keys
 - For live weather: `set WEATHER_API_KEY=your_openweathermap_key`
 - For web search: `set SEARCH_API_KEY=your_serpapi_or_bing_key`
 
-### 5. Ensure `pratham.wav` is Present
+### 4. Ensure `pratham.wav` is Present
 Place your startup audio file (`pratham.wav`) in the project directory.
 
 ---
