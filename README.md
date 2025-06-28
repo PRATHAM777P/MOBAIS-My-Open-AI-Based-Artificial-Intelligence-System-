@@ -1,4 +1,4 @@
-# MOBAIS: Modular OpenAI-Based Assistant with Intelligent Speech
+# MOBAIS: My Open AI-Based Artificial Intelligence System
 
 MOBAIS is a modular, voice-activated and text-based AI assistant built with Python, OpenAI GPT-4, and modern speech technologies. It supports both CLI and GUI modes, customizable personalities, wake words, and intent recognition for smart task execution.
 
