@@ -90,11 +90,6 @@ README.md          # This file
 
 ---
 
-## License
-MIT License
-
----
-
 ## Credits
 - Built with [OpenAI](https://openai.com/), [pydub](https://github.com/jiaaro/pydub), [SpeechRecognition](https://pypi.org/project/SpeechRecognition/), and Python.
 - Voice and audio features powered by your system's audio backend (FFmpeg or simpleaudio).
