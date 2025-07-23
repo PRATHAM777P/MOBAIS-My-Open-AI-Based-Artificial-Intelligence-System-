@@ -21,6 +21,7 @@ MOBAIS is a modular, voice-activated and text-based AI assistant built with Pyth
 ### 🖼️ System Workflow
 
 <img width="668" height="249" alt="Image" src="https://github.com/user-attachments/assets/66566c47-416b-4e6f-b906-6874f72a5099" />
+
 ## Setup
 
 ### 1. Install Dependencies
